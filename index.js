@@ -12,5 +12,5 @@ function setRedMode(){
 }
 
 function seeCookie(){
-    document.cookie = "user = Zhandos; expires= Sun, 12 Jun 2022 12:55:00 GMT;";
+    document.cookie = "user = Zhandos; expires= Sun, 15 Jun 2022 03:00:00 GMT;";
 }
