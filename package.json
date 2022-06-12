@@ -5,12 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-      "init":"git init",
-      "add":"git add .",
-      "commit":"git commit -m \"first commit\"",
-      "remote":"git remote add origin https://github.com/zhandos200103201/zhandos200103201-nfactorial-homework-0610-npmStorages.git",
-      "push":"git push -u origin master",
-      "pushToGit": "init & add & commit & remote & push"
+      "pushToGit": "git init & git add . & git commit -m \"npm\" & git branch -M main & git remote add origin https://github.com/zhandos200103201/nfactorial-homework-0610-npmStorages.git & git push origin master"
   },
   "keywords": [],
   "author": "",
